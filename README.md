@@ -13,7 +13,7 @@ I did used nugget to bring down closedXML. I used this
 package to read the excel worksheet. I also put a simple winform over the code
 so it can be better visualized.
 
-Simple operations.
+# Simple operations.
 
 Use file menu file dialog option to find your
 xslt data worksheet and load inventory into program.Use Inventory option to update loaded inventory.
@@ -23,7 +23,7 @@ xslt data worksheet and load inventory into program.Use Inventory option to upda
 A simple data grid view will show the initial inventory
 loaded and show the results after the inventory has been uploaded.
 
-Design considerations.
+# Design considerations.
 
 I used to two design principals. separation of
 concerns (SoC) and single responsibility principle.Inventory items are defined with a base class
