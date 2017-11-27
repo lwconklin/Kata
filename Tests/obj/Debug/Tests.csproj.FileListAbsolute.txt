@@ -1,0 +1,15 @@
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\Tests.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\Tests.pdb
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\nunit.framework.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\nunit.framework.xml
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\obj\Debug\Tests.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\obj\Debug\Tests.pdb
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\kataKalibrate.exe
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\ClosedXML.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\FastMember.Signed.dll
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\kataKalibrate.pdb
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\ClosedXML.pdb
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\ClosedXML.xml
+C:\Users\585351\documents\visual studio 2015\Projects\kataKalibrate\Tests\bin\Debug\DocumentFormat.OpenXml.xml
